@@ -23,7 +23,7 @@
 
         <section class="contact">
             <h2>Contact Us</h2>
-            <p>Email: qhowmenzconsult@gmail.com</p>
+            <p>Email: princeqhowmensah@gmail.com</p>
         </section>
     </main>
 
